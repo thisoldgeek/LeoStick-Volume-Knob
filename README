@@ -1,0 +1,15 @@
+This sketech creates a volume control knob from a rotary encoder to work
+with a computer. The sketch has been tested on an Arduino Leonardo clone
+named the LeoStick, from Freetronics.
+
+The sketch is known to work on Ubuntu 12.04 LTS and Mac OS/X 10.7.5. The 
+volume up down functions, but not the mute function, have been tested to
+work on a Nexus 7 tablet running KitKat (4.4.2) using a USB-OTG cable.
+
+This sketch is based on the work of Digistump Digispark forum poster Bluebie,
+for the initial sketch and wiring diagram.
+A prerequisite for this sketch is making the modifications detailed on the
+blog post of Stefan Jones:
+http://stefanjones.ca/blog/arduino-leonardo-remote-multimedia-keys/
+
+
